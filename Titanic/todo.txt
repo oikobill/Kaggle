@@ -1,0 +1,19 @@
+TO DO list:
+
+1) Age prediction -- high priority
+	find a good way to impute
+		   
+2) Titles -- medium priority
+	* Try to come up with a set of more distinctive titles
+
+3) Did the elderly survive? 
+	* Explore survival by age based on the class to make the charisma feature
+
+4) Charisma feature (multiply age by some manipulated form of age)
+
+5) Families <-- HARD TASK -- low priority
+	* Try to determine the families and see who survived
+
+6) Try feature selection and see if it helps — medium priority
+
+
