@@ -1,14 +1,10 @@
 TO DO list:
 
 1) Age prediction -- high priority
-	* Usefull observation: most missing entries should be from the 3rd class (most probably)
-	* Try: a) Predicting the median of 3rd class for age
-		   b) Predicting the median of the particular class of the person
-		   c) Make a model that predicts age and compare it to the take-the-median approach
+	find a good way to impute
 		   
 2) Titles -- medium priority
 	* Try to come up with a set of more distinctive titles
-	* Make a separate title called "child" for children (might be misleading to give children titles)
 
 3) Did the elderly survive? 
 	* Explore survival by age based on the class to make the charisma feature
